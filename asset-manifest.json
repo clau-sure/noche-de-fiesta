@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noche-de-fiesta/static/css/main.0d68503e.css",
+    "main.js": "/noche-de-fiesta/static/js/main.9b6ff4ef.js",
+    "static/media/Noah Text Heavy.ttf": "/noche-de-fiesta/static/media/Noah Text Heavy.1582614767b27fcdcae5.ttf",
+    "static/media/LOGO.png": "/noche-de-fiesta/static/media/LOGO.4caf1459fc4de160874f.png",
+    "index.html": "/noche-de-fiesta/index.html",
+    "main.0d68503e.css.map": "/noche-de-fiesta/static/css/main.0d68503e.css.map",
+    "main.9b6ff4ef.js.map": "/noche-de-fiesta/static/js/main.9b6ff4ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d68503e.css",
+    "static/js/main.9b6ff4ef.js"
+  ]
+}
