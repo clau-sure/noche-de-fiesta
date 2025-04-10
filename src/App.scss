@@ -21,16 +21,16 @@ body {
 
 #root {
   background-color: black;
-  width: 2184px;
-  height: 1680px;
+  width: 1920px;
+  height: 1080px;
 }
 
 .both {
   display: flex;
   padding: 50px;
   justify-content: space-between;
-  max-width: 2184px;
-  max-height: 1680px;
+  max-width: 1920px;
+  max-height: 1080px;
   width: -webkit-fill-available;
   height: max-content;
 }
